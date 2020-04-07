@@ -1,5 +1,5 @@
-# TEST 2019
-Test 2019's documents!
+# 2019 SAMPLE TEST
+2019 sample test!
 
 ## Copyright
 Copyright (c) Skool +.
