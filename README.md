@@ -1,5 +1,6 @@
 # 2019 SAMPLE TEST
-2019 sample test!
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
